@@ -1,0 +1,96 @@
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\appsettings.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.staticwebassets.runtime.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.staticwebassets.endpoints.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.exe
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.deps.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.runtimeconfig.json
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.dll
+C:\Users\Brown!\Documents\c#\student app\student app\bin\Debug\net9.0\student app.pdb
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.AssemblyInfoInputs.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.AssemblyInfo.cs
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.csproj.CoreCompileInputs.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.RazorAssemblyInfo.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.RazorAssemblyInfo.cs
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\scopedcss\bundle\student app.styles.css
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\scopedcss\projectbundle\student app.bundle.scp.css
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\zixlefwc08-b9sayid5wm.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\kaq5aeqm5n-61n19gt1b8.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\v1fah8lvj1-xtxxf3hu2r.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\b69p7fkvx3-bqjiyaj88i.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\loctrtvcyr-c2jlpeoesf.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\gstazta245-erw9l3u2r3.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\uaovwm9j3c-aexeepp0ev.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\ts9eoizl91-d7shbmvgxk.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\mu6vk3i1ck-ausgxo2sd3.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\8jn3baotrk-k8d9w2qqmf.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\w4vdyk1839-cosvhxvwiu.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\uja7axei5m-ub07r2b239.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\2fa8e4fhiu-fvhpjtyr6v.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\3a223wljgv-b7pk76d08c.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\4az6wno93z-fsbi9cje9m.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\fwuy2vtewj-rzd6atqjts.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\hbatvmf7z5-ee0r1s7dh0.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\ygrinjqtg3-dxx9fxp4il.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\vljha17cx2-jd9uben2k1.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\x1lpyoyb6g-khv3u5hwcm.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\kbajq0dmui-r4e9w2rdcm.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\vjli5mh5qj-lcd1t2u6c8.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\53fwwrzy48-c2oey78nd0.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\2w9l59wowy-tdbxkamptv.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\cvdhsifrmv-j5mq2jizvt.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\i8uv8uurkh-06098lyss8.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\pr1t7rlc8m-nvvlpmu67g.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\jgxz4tusk3-s35ty4nyc5.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\vhkyavjmxf-pj5nd1wqec.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\k61rnm8kjb-46ein0sx1k.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\0atrr51kgs-v0zj4ognzu.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\hrc3cmz1zy-37tfw0ft22.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\riybdjglos-hrwsygsryq.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\y9tshf9mxx-pk9g2wxc8p.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\27hxjsp724-ft3s53vfgj.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\i1fg8kdhsf-6cfz1n2cew.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\fifhqpyyzq-6pdc2jztkx.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\opzg3w4pcv-493y06b0oq.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\acf7iy01n9-iovd86k7lj.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\9dkqm5q9pn-vr1egmr9el.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\lqfu0nazpw-kbrnm935zg.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\vih19gsf33-jj8uyg4cgr.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\bvqivrrxy5-y7v9cxd14o.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\9bzjyvuvvz-notf2xhcfb.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\qq0wwecmdf-h1s4sie4z3.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\kgh4mr3lw7-63fj8s7r0e.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\yno1r4ineo-0j3bgjxly4.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\pzxeucve1x-47otxtyo56.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\ghlnexkhus-4v8eqarkd7.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\pxac93lcfw-356vix0kms.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\ez83f67nj5-83jwlth58m.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\j8jhorutpm-mrlpezrjn3.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\ludxe6agx2-lzl9nlhx6b.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\a5lwhojct0-ag7o75518u.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\wizaq5kesb-x0q3zqp4vz.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\shl73hugkr-0i3buxo5is.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\cmhhenqj91-o1o13a6vjx.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\olejskzgd2-ttgo8qnofa.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\nx7q3fvq1f-2z0ns9nrw6.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\98d364e0u6-muycvpuwrr.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\j0gg6pc4aq-87fc7y1x7t.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\uk71l8i1nl-mlv21k5csn.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\urahgcy63p-bwpjcdaiyx.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\compressed\d1lx0ycc9z-bwpjcdaiyx.gz
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.dll
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\refint\student app.dll
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.pdb
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\student app.genruntimeconfig.cache
+C:\Users\Brown!\Documents\c#\student app\student app\obj\Debug\net9.0\ref\student app.dll

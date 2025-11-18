@@ -1,0 +1,53 @@
+@page 
+ 
+@{ 
+    ViewData["Title"] = "Student List"; 
+} 
+<div class="container mt-5"> 
+    <h2 class="text-center">@ViewData["Title"]</h2> 
+    <div class="d-flex justify-content-end mb-3"> 
+        <a href="Registration", "Customer")" class="btn btn-success">Register New Student</a> 
+    </div> 
+    
+<div class="row mb-3"> 
+    <div class="col-md-6"> 
+        <form class="d-flex" asp-action="Customer" asp-controller="Customer"> 
+                <input name="searchString" type="search" class="form-control"            placeholder="Search"> 
+            <button type="submit" class="btn btn-dark">Search</button>  
+        </form> 
+ 
+    </div> 
+</div> 
+    <table class="table table-striped table-bordered"> 
+        <thead class="thead-dark"> 
+            <tr> 
+                <th>ID</th> 
+                <th>Full Name</th> 
+                <th>Gurdian Name</th> 
+                <th>Gurdian Contact</th> 
+                <th>School Name</th> 
+                <th>Pass Grade</th> 
+                <th>Graduated Year</th> 
+                <th>Actions</th> 
+            </tr> 
+        </thead> 
+        <tbody> 
+                <tr> 
+                    <td>1</td> 
+                    <td>mohamutt</td> 
+                    <td>updikadir</td> 
+                    <td>mohamed</td> 
+                    <td>EAU Garowe</td> 
+                    <td>A</td> 
+                    <td>2025</td> 
+                    <td> 
+  <a href="@Url.Action("Edit", "Customer", new {})" class="btn btn-primary btn-sm me-3">Edit</a> 
+    <a href="@Url.Action("Delete", "Customer", new { })" class="btn btn-danger btn-sm">Delete</a> 
+                    </td> 
+                </tr> 
+        </tbody> 
+    </table> 
+</div> 
+ 
+ 
+ 
